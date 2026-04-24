@@ -49,6 +49,7 @@ const pieceSets: Item[] = [
   { label: "Spatial", value: "spatial" },
   { label: "Staunty", value: "staunty" },
   { label: "Tatiana", value: "tatiana" },
+  { label: "Kiwen Suwi", value: "kiwensuwi" },
 ];
 
 function DisplayPieces() {
